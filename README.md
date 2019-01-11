@@ -9,14 +9,12 @@ Contact person: Nicolas Renaud n.renaud@esciencecenter.nl
 
 **The meeting should start somewhere in February 2019**
 
-# Upcoming meetings 
-
 | Date | Session leader | Topic |
 |------|----------------|-------|
 | 2019-02-XX | Nico | Overview of numerical methods used in NLeSC project |
 
 
-# Past meetings
+## Past meetings
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
