@@ -13,8 +13,8 @@ https://github.com/NLESC-JCER/DavidsonPython/blob/master/davidson.py
 
 A few libraries have been developped for Davidson and Jacobi-Davidson :
 
-C++ : https://github.com/NLESC-JCER/DavidsonEigen
-Fortran : https://github.com/NLESC-JCER/Fortran_Davidson
+  * C++ : https://github.com/NLESC-JCER/DavidsonEigen
+  * Fortran : https://github.com/NLESC-JCER/Fortran_Davidson
 
 ## MPI
 
