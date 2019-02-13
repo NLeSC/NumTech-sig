@@ -17,7 +17,7 @@ https://github.com/NLESC-JCER/Fortran_Davidson
 
 ### CUDA
 
-## Jacobi Davidson
+## Jacobi Davidson iterative approach :
 
 ## JD gatway
 http://www.win.tue.nl/casa/research/scientificcomputing/topics/jd/overview.html
