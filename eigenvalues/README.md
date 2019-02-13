@@ -16,6 +16,7 @@ https://github.com/NLESC-JCER/DavidsonPython/blob/master/davidson_by_hand.ipynb
 https://github.com/NLESC-JCER/Fortran_Davidson
 
 ### CUDA
+soon 
 
 ## Jacobi Davidson iterative approach :
 
