@@ -5,7 +5,7 @@
 ### Python 
 https://github.com/NLESC-JCER/DavidsonPython
 
-A note jupyter book for a simple Davidson diagonalization :
+A jupyter notebook for a simple Davidson diagonalization :
 https://github.com/NLESC-JCER/DavidsonPython/blob/master/davidson_by_hand.ipynb
 
 ### C++
