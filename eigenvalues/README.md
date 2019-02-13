@@ -1,6 +1,6 @@
 # Eigenvalue problems
 
-## Davidson Iterative approaches :
+## Davidson iterative approach :
 
 ### Python 
 https://github.com/NLESC-JCER/DavidsonPython
