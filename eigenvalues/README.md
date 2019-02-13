@@ -16,3 +16,8 @@ https://github.com/NLESC-JCER/DavidsonPython/blob/master/davidson_by_hand.ipynb
 https://github.com/NLESC-JCER/Fortran_Davidson
 
 ### CUDA
+
+## Jacobi Davidson
+
+## JD gatway
+http://www.win.tue.nl/casa/research/scientificcomputing/topics/jd/overview.html
