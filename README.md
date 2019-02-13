@@ -11,7 +11,8 @@ Contact person: Nicolas Renaud n.renaud@esciencecenter.nl
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
-| 2019-02-XX | Nico | Overview of numerical methods used in NLeSC project |
+| 2019-02-14 | Nico | Overview of numerical methods used in NLeSC project |
+| 2019-02-14 | Nico | Davidson method for large eigenvalue problems |
 
 
 ## Past meetings
