@@ -11,7 +11,7 @@ Contact person: Nicolas Renaud n.renaud@esciencecenter.nl
 | Date | Session leader | Topic |
 |------|----------------|-------|
 | 2019-04-11 | Felipe | [High performance computing in Python: a brief tour to some libraries and techniques](https://github.com/NLeSC/NumTech-sig/tree/master/HPCPython) |
-| 2019-03-14 | Johan | Parallel in Time Method |
+| 2019-03-14 | Johan | [Parallel in Time Method](https://github.com/NLeSC/NumTech-sig/tree/master/PinT) |
 | 2019-02-14 | Nico | [Davidson method for large eigenvalue problems](https://github.com/NLeSC/NumTech-sig/tree/master/eigenvalues) |
 | 2019-02-14 | Nico | Overview of numerical methods used in NLeSC project |
 
