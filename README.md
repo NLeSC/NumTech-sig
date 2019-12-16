@@ -10,7 +10,7 @@ Contact person: Nicolas Renaud n.renaud@esciencecenter.nl
 
 | Date | Session leader | Topic |
 |------|----------------|-------|
-|2019-12-15| Nico | [Quantum Monte Carlo using Neural Networks] (https://github.com/NLeSC/NumTech-sig/tree/master/DeepQMC) |
+|2019-12-15| Nico | [Quantum Monte Carlo using Neural Networks](https://github.com/NLeSC/NumTech-sig/tree/master/DeepQMC) |
 |2019-09-26 | Jisk | Poisson solver |
 |2019-05-23 | Adithya | Sovling large linear system using BiCGStab(L) |
 | 2019-04-11 | Felipe | [High performance computing in Python: a brief tour to some libraries and techniques](https://github.com/NLeSC/NumTech-sig/tree/master/HPCPython) |
